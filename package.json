@@ -1,0 +1,15 @@
+{
+  "name": "nigbackend",
+  "version": "0.0.1",
+  "description": "this is backend code for running No Idea Game Online and activates multiplayer section",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "amirreza soltani",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1"
+  }
+}
